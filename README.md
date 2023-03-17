@@ -1,2 +1,2 @@
 # mswookeyinv
-plugin de ligação woocommerce ao keyinvoice
+plugin de ligação woocommerce ao keyinvoice e muito mais
