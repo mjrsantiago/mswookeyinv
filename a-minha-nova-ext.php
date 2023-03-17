@@ -1,5 +1,5 @@
 /**
- * Plugin Name: Liga woocommerce ao Keyinvoice
+ * Plugin Name: Ligação woocommerce ao Keyinvoice
  * Plugin URI: http://woocommerce.com/products/woocommerce-extension/
  * Description: Plugin de ligação entre woocommerce e sofware keyinvoice
  * Version: 1.0.0
